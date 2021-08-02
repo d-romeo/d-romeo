@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @d-romeo
+- 🌱 I’m currently student of computer science and electronic engineering
+- 📫 How to reach me: danieleromeo.ele@gmail.com
