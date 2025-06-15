@@ -18,8 +18,8 @@ I'm also passionate about teaching and have shared open-source resources for stu
 
 ## 📊 GitHub Stats
 
-![Daniele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Daniele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=d-romeo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-romeo&layout=compact&theme=radical)
 
 ---
 
