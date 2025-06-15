@@ -39,7 +39,7 @@ I'm also passionate about teaching and have shared open-source resources for stu
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/daniele-romeo-954840295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- 🌐​ [Mail] (danieleromeo.ele@gmail.com)
+- 🌐​ danieleromeo.ele@gmail.com
 - 📁 GitHub Repositories: explore my work below ⬇️
 
 ---
