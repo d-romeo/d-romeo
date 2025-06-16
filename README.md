@@ -27,7 +27,7 @@ I'm also passionate about teaching and have shared open-source resources for stu
   MATLAB simulation of a 4DOF SCARA robot with kinematic analysis
 
 - [🏭 Industrial Controller Simulation](https://github.com/d-romeo/Industrial-controller)  
-  A simulation project of an industrial control logic system with Arduino
+  A simulation project of an industrial control logic system using MATLAB
 
 ---
 
