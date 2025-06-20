@@ -20,6 +20,9 @@ I'm also passionate about teaching and have shared open-source resources for stu
 - [🤖 Control of Assistance Robots](https://github.com/d-romeo/Control-of-Assistance-Robots)  
   Robot control system integrating artificial intelligence for assistive tasks
 
+  - [⚽ SanzeLeague - Sports Tournament Manager](https://github.com/d-romeo/SanzeLeague)  
+  A web platform with a management dashboard for organizing and tracking sports tournaments
+
 - [🎓 Programming Exercises for Students](https://github.com/d-romeo/Programming-exercises-for-students)  
   Educational code examples used during lessons and training sessions
 
