@@ -35,7 +35,7 @@ I'm also passionate about teaching and have shared open-source resources for stu
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-romeo&layout=compact&theme=radical)
+
 
 ---
 
